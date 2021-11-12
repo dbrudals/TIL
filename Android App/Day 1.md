@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=wZdImPoFjW8&list=PLC51MBz7PMyyyR2l4gGBMFMMUfYmBk
 
 <h1> TextView </h1>
 단순히 텍스트 상자 느낌
-```
+``` java
 TextView textView = findViewbyId(R.id.내가달아준id)
 ```
 
