@@ -15,6 +15,6 @@ TextView textview = findViewById(R.id.내가정한id); <br>
 <h1> EditText & Button </h1>
 EditText는 글상자 느낌으로 직접 입력할 수 있는 칸<br>
 Button은 말 그대로 버튼.
-
-
+<br>
+<br>
 22:00~23:35 ==> 1h 35m
