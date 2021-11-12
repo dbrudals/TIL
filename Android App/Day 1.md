@@ -5,13 +5,12 @@ https://www.youtube.com/watch?v=wZdImPoFjW8&list=PLC51MBz7PMyyyR2l4gGBMFMMUfYmBk
 오늘은 ↑ 이거 하나 보고 테스트했다.<br>
 세팅이 훨씬 지치네..<br>
 
+객체를 <br>
+TextView textview = findViewById(R.id.내가정한id); <br>
+이런식으로 만든다.
+
 <h1> TextView </h1>
 단순히 텍스트 상자 느낌<br>
-```java
-TextView textView = findViewbyId(R.id.내가달아준id)
-```
-<br>
-모든 객체를 요런식으로 만들어준다.
 
 <h1> EditText & Button </h1>
 EditText는 글상자 느낌으로 직접 입력할 수 있는 칸<br>
