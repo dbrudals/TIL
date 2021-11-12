@@ -1,3 +1,5 @@
+2021-11-10
+
 너무 헤비하게 돌아가는 거 아닌가..<br>
 https://www.youtube.com/watch?v=ESBCIgXtVWw<br>
 ↑ 설치강좌보고 했는데 그냥 기다림의 연속이었다.<br>
